@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+}
+#picture{
+    display: flex;
+    border-radius: 100px;
+}
+.same{
+    padding: 18px 18px 18px 18px;
+    border-radius: 50px;
+    box-shadow:10px 10px 10px black;
+
+}
+.head same p{
+    align-items: center;
+    font-size: 3rem;
+
+}
+div img:hover{
+    filter:brightness(1.5);
+    transform: scale(1.03);
+}
+
+.head{
+
+    align-items: center;
+    display: flex;
+    font-size: 3rem;
+    /* padding-left: 300px; */
+    /* padding-top: 30px; */
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    margin-bottom: 15px;
+    height: 250px;
+    overflow: hidden;
+}
